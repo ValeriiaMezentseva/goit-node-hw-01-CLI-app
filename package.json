@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriiaMezentseva/goit-node-hw-01-CLI-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriiaMezentseva/goit-node-hw-01-CLI-app/issues"
+  },
+  "homepage": "https://github.com/ValeriiaMezentseva/goit-node-hw-01-CLI-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
+  }
+}
