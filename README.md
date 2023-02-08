@@ -17,6 +17,3 @@ https://monosnap.com/file/bByH3cm6HbhpHIQyg7IrSlzWrO7IP6
    node index.js --action="remove" --id=3
 
 https://monosnap.com/file/y0aJ9q2ehg7wNfdd5hEbAoVBVTYolI
-
-/ all screenshots: /
-https://monosnap.com/list/63e3887c18633a2f2eaf0a67
